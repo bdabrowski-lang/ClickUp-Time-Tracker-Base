@@ -20,7 +20,7 @@
     const API_KEY = ''; //Prywatny klucz API CLickUp'a
 
     // Opcje timera bazowego
-    const ENABLE_BASE_TIMER = true; //uruchomienie domyślnego timera po opuszczeniu spotkania
+    const ENABLE_BASE_TIMER = falseś; //uruchomienie domyślnego timera po opuszczeniu spotkania
     const BASE_TASK_ID = '86c1tk27q'; //ID domyślnego zadania (timera)
     const BASE_TASK_DESC = 'Praca własna'; //Opis domyślnego timera (informacja przekazywana do CU i wyświetlana w ogólnym trackerze
 
