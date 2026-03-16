@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         ClickUp Time Tracker on Google Meet
+// @name         ClickUp Time Tracker on Google Meet test
 // @namespace    http://tampermonkey.net/
 // @version      1.5
 // @description  Automatyczny start/stop timera ClickUp + Inteligentny Timer Bazowy
