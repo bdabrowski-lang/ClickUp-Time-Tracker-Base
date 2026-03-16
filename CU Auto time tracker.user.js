@@ -7,6 +7,7 @@
 // @match        https://meet.google.com/*
 // @grant        GM_xmlhttpRequest
 // @connect      api.clickup.com
+// @connect      raw.githubusercontent.com
 // @updateURL    https://raw.githubusercontent.com/bdabrowski-lang/ClickUp-Time-Tracker-Base/main/clickup-meet-tracker.user.js
 // @downloadURL  https://raw.githubusercontent.com/bdabrowski-lang/ClickUp-Time-Tracker-Base/main/clickup-meet-tracker.user.js
 // ==/UserScript==
